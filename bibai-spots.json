@@ -1,0 +1,1992 @@
+{
+  "spots": [
+    {
+      "id": "artepiazza",
+      "name": "安田侃彫刻美術館 アルテピアッツァ美唄",
+      "address": "北海道美唄市落合町栄町",
+      "lat": 43.33293556487453,
+      "lng": 141.91152427116475,
+      "phone": "0126-63-3137",
+      "url": "https://www.artepiazza.jp/",
+      "mapUrl": "https://maps.app.goo.gl/XSehyvD1w71MQPXu6",
+      "hours": "9:00〜17:00",
+      "closed": "火曜、祝日の翌日（日曜は除く）、12/31〜1/5",
+      "fee": "無料（寄附制）",
+      "parking": true,
+      "themes": [
+        "art_photo",
+        "nature_relax",
+        "surprise"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "雪解け後の新緑と白い彫刻のコントラストが美しい"
+        },
+        "summer": {
+          "available": true,
+          "notes": "緑が最も濃い時期。屋外展示すべて鑑賞可能"
+        },
+        "autumn": {
+          "available": true,
+          "notes": "紅葉と彫刻の組み合わせが映える"
+        },
+        "winter": {
+          "available": true,
+          "notes": "雪に埋もれた彫刻が幻想的。一部作品はカバーで保護。カフェは平日16:00まで"
+        }
+      },
+      "description": "旧栄小学校跡地を活用した野外彫刻美術館。美唄出身の世界的彫刻家・安田侃の作品約40点を常設展示。大理石やブロンズの大型作品が自然の中に点在。旧校舎内にもギャラリーあり。彫刻に触れることができる。「こころを彫る授業」（大理石彫刻体験、毎月第1土日）も実施。敷地内にカフェアルテ（10:00〜17:00）あり。札幌駅にもある彫刻「妙夢」の本拠地。　毎月第1土・日曜日（5月のみ第2週）には彫刻体験もできる（要予約）。",
+      "trivia": "作品はすべて触ってOK。触れて体感することが安田侃のコンセプト。春〜秋はPiPaで買ったとりめしを彫刻を眺めながら屋外で食べるのが地元民おすすめの楽しみ方（カフェアルテへの持ち込みは不可）。冬は寒くて屋外飲食は厳しい。彫刻体験は毎月第1土・日曜日に開催（5月のみ第2週）。要予約。",
+      "duration": "30〜120分",
+      "photos": []
+    },
+    {
+      "id": "cafe_arte",
+      "name": "カフェアルテ",
+      "address": "北海道美唄市落合町栄町（アルテピアッツァ美唄内）",
+      "lat": 43.33116219366015,
+      "lng": 141.91093228935048,
+      "phone": "0126-63-1010",
+      "url": "https://www.artepiazza.jp/guide/cafe-arte/",
+      "mapUrl": "https://maps.app.goo.gl/nQDj1kcRE7nbH5nXA",
+      "hours": "10:00〜17:00（冬季平日は16:00まで）",
+      "closed": "アルテピアッツァ美唄に準ずる",
+      "fee": "〜999円",
+      "parking": true,
+      "themes": [
+        "food",
+        "nature_relax",
+        "art_photo"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": "テラス席が利用可能"
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": "平日は16:00閉店。テラス席利用不可"
+        }
+      },
+      "description": "アルテピアッツァ美唄内のカフェ。高い天井と大きな窓のある空間。店内にも安田侃の彫刻あり。美唄の石窯パン「ストウブ」のフォカッチャやパニーノ、美唄産かぼちゃスープなど地元食材を使用。テイクアウト可。",
+      "trivia": "",
+      "duration": "30〜60分",
+      "photos": []
+    },
+    {
+      "id": "tanko_memorial",
+      "name": "炭鉱メモリアル森林公園",
+      "address": "北海道美唄市東美唄町常盤台一ノ沢",
+      "lat": 43.33365398260254,
+      "lng": 141.9685432730114,
+      "phone": "0126-63-0138",
+      "url": "https://bibaikanko.jp/machimise3/?introduce=%E7%82%AD%E9%89%B1%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%EF%BC%88%E6%97%A7%E4%B8%89%E8%8F%B1%E7%BE%8E%E5%94%84%E7%82%AD%E9%89%B1%E6%96%BD%E8%A8%AD%EF%BC%89",
+      "mapUrl": "https://maps.app.goo.gl/EQrc94MoU8ZZ5HQU8",
+      "hours": "見学自由",
+      "closed": "冬季閉鎖（11〜4月）",
+      "fee": "無料",
+      "parking": true,
+      "themes": [
+        "history_mining",
+        "art_photo",
+        "local_hidden",
+        "surprise"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "5月開園。新緑の中に遺構が浮かぶ"
+        },
+        "summer": {
+          "available": true,
+          "notes": "緑に覆われた竪坑櫓が印象的"
+        },
+        "autumn": {
+          "available": true,
+          "notes": "10月末で閉園。紅葉と産業遺産の組み合わせ"
+        },
+        "winter": {
+          "available": false,
+          "notes": "冬季閉鎖。散策不可"
+        }
+      },
+      "description": "昭和47年閉山の三菱美唄炭鉱跡地。高さ約20mの竪坑巻揚櫓2基、開閉所、原炭ポケットが残る。大正12年に深さ170mの竪坑が造られ、昭和初期には年間出炭量100万トン超で三菱鉱業全炭鉱中1位。平成19年に近代化産業遺産に選定。森の中に突如現れるオレンジ色の櫓が圧巻。面積4.8ha。",
+      "trivia": "昔は立坑のところまで鉄道が走っていた。",
+      "duration": "15分〜30分",
+      "photos": []
+    },
+    {
+      "id": "mitsubishi_memorial_hall",
+      "name": "三菱美唄記念館",
+      "address": "北海道美唄市東美唄町（炭鉱メモリアル森林公園近く）",
+      "lat": 43.32263683411888,
+      "lng": 141.95047664417618,
+      "phone": "",
+      "url": "",
+      "mapUrl": "https://maps.app.goo.gl/vDYpzhoEGe4Signg9",
+      "hours": "5〜10月 平日13:00〜16:30、土日祝9:00〜17:00",
+      "closed": "11〜4月",
+      "fee": "無料",
+      "parking": true,
+      "themes": [
+        "history_mining"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "5月から開館"
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": "10月末で閉館"
+        },
+        "winter": {
+          "available": false,
+          "notes": "冬季閉鎖"
+        }
+      },
+      "description": "三菱美唄炭鉱に関する資料を展示する記念館。炭鉱メモリアル森林公園と合わせて見学するのがおすすめ。",
+      "trivia": "",
+      "duration": "30〜40分",
+      "photos": []
+    },
+    {
+      "id": "kyu_tomei_station",
+      "name": "東明駅舎",
+      "address": "北海道美唄市東明町2区",
+      "lat": 43.334245865868525,
+      "lng": 141.90277700000001,
+      "phone": "",
+      "url": "https://www.city.bibai.hokkaido.jp/soshiki/23/1233.html",
+      "mapUrl": "https://maps.app.goo.gl/2RTPhRPEENxreqEx8",
+      "hours": "外観見学自由",
+      "closed": "",
+      "fee": "無料",
+      "parking": true,
+      "themes": [
+        "history_mining",
+        "art_photo",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": "雪に埋もれた駅舎と機関車の雰囲気がある"
+        }
+      },
+      "description": "三菱美唄炭鉱から石炭を運んだ美唄鉄道の駅舎。昭和47年の閉山とともに60年の歴史に幕。ホームにSL「4110形式十輪連結タンク機関車2号」が展示。駅舎内には廃線当時の時刻表や券売機が残る。森の片隅に静かに佇む。\n東明駅舎の内部は普段は公開されていない。期間：5月～10月　第1日曜日 9時～13時 のみサポートスタッフがいて内部が見れる。",
+      "trivia": "",
+      "duration": "15〜20分",
+      "photos": []
+    },
+    {
+      "id": "miyajimanuma",
+      "name": "宮島沼（ラムサール条約登録湿地）",
+      "address": "北海道美唄市西美唄町大曲3区",
+      "lat": 43.32903309244167,
+      "lng": 141.71585070947623,
+      "phone": "0126-66-5066（宮島沼水鳥・湿地センター）",
+      "url": "https://miyajimanuma.wixsite.com/miyatomo",
+      "mapUrl": "https://maps.app.goo.gl/YtR5DfPUMFKpktnW7",
+      "hours": "沼は常時開放。水鳥・湿地センター：9:00〜17:00（マガン最盛期は延長あり）",
+      "closed": "センター：月曜（祝日の場合は翌日）",
+      "fee": "無料",
+      "parking": true,
+      "themes": [
+        "nature_relax",
+        "art_photo",
+        "local_hidden",
+        "surprise"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "マガン飛来のピーク（4月中旬〜下旬）。最大約6万羽。朝4:30頃のねぐら立ち、18時頃のねぐら入りが圧巻。コハクチョウも4月上旬に飛来"
+        },
+        "summer": {
+          "available": true,
+          "notes": "渡り鳥シーズン外。葦が繁茂し沼面が見えにくい。静かな湿地の雰囲気"
+        },
+        "autumn": {
+          "available": true,
+          "notes": "マガン再飛来（9月下旬〜10月上旬）。春より数は少ないが十分見応えあり"
+        },
+        "winter": {
+          "available": false,
+          "notes": "冬季は沼の近くまで行けない（除雪されていない）。プランに入れないこと"
+        }
+      },
+      "description": "国内最北・最大のマガン寄留地。2002年にラムサール条約登録（国内13番目）。面積25ha、平均水深55cm。春のピーク時には東アジアのマガンの約半数（約6万羽）が集まる。朝の一斉飛び立ち（ねぐら立ち）は世界的にも稀な光景。宮島沼水鳥・湿地センターで定点カメラ観察やパネル展示あり。未舗装の駐車場、足元注意。沼の名は明治時代の開墾者・宮島佐次郎氏に由来。",
+      "trivia": "春先に少しあたたかくなった時期、田んぼのまんなかで鳥をぼんやり眺めるのが地元民のおすすめの過ごし方。沼だけでなく周辺の田んぼにもマガンが降りてエサを食べている光景が見られる。\n日の出と日の入りがおすすめ。日の出（ねぐら立ち）のときにマガンが一斉に飛び立って、日の入り（ねぐら入り）のときに戻ってくる。",
+      "duration": "30〜60分",
+      "photos": []
+    },
+    {
+      "id": "tomei_park",
+      "name": "東明公園",
+      "address": "北海道美唄市東明町2区",
+      "lat": 43.34029767324776,
+      "lng": 141.89838205767046,
+      "phone": "0126-63-0138",
+      "url": "",
+      "mapUrl": "https://maps.app.goo.gl/M7UiP7RCfC5MLFpW7",
+      "hours": "常時開放（一部施設は5〜10月）",
+      "closed": "",
+      "fee": "無料",
+      "parking": true,
+      "themes": [
+        "nature_relax",
+        "art_photo",
+        "sports_outdoor"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "桜の見頃は5月上旬〜中旬。約2,000本のソメイヨシノ・エゾヤマザクラ等。日本最北端のソメイヨシノ群生地。桜まつり開催時はライトアップあり"
+        },
+        "summer": {
+          "available": true,
+          "notes": "6月中旬〜下旬にツツジ約5,000本が見頃。池の蓮も咲く"
+        },
+        "autumn": {
+          "available": true,
+          "notes": "紅葉スポット"
+        },
+        "winter": {
+          "available": true,
+          "notes": "歩くスキーコースあり"
+        }
+      },
+      "description": "昭和38年開園。標高約70mの丘陵地に広がる総合公園（33.5ha）。展望台「スペースカリヨン」から美唄市街と石狩平野を一望。さらに奥の「ふるさとの見える丘展望台」（標高約240m、車で行ける）はより広いパノラマ。パークゴルフ場あり。",
+      "trivia": "桜はゴールデンウィーク後ぐらいの時期が見頃。ただし、最近の温暖化でグールデンウィークに被るようになってきている。",
+      "duration": "30〜60分",
+      "photos": []
+    },
+    {
+      "id": "pipa_yurinkan",
+      "name": "青の洞窟温泉 ピパの湯 ゆ〜りん館",
+      "address": "北海道美唄市東明町3区",
+      "lat": 43.34418645600039,
+      "lng": 141.893024908809,
+      "phone": "0126-64-3800",
+      "url": "https://www.yu-rinkan.com/",
+      "mapUrl": "https://maps.app.goo.gl/G2NibGo7gJywQNhe7",
+      "hours": "日帰り入浴 7:00〜21:00（最終受付20:30）",
+      "closed": "年中無休",
+      "fee": "大人650円、小学生300円、幼児無料",
+      "parking": true,
+      "themes": [
+        "nature_relax",
+        "unique_experience",
+        "surprise"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "露天風呂から桜が見える時期も"
+        },
+        "summer": {
+          "available": true,
+          "notes": "レンタサイクルあり（4月中旬〜11月下旬、1台2,000円）"
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": "雪景色の露天風呂"
+        }
+      },
+      "description": "美唄ICから車5分の温泉宿泊施設。日帰り入浴可。イタリア・カプリ島の「青の洞窟」をイメージした洞窟露天風呂が名物。夜間ライトアップで幻想的。高台に位置し露天風呂からの眺望が良い。炭酸水素塩泉で美肌効果あり。レストラン併設（神内和牛入りスープカレーなど）。隣接の体験交流館で陶芸体験も可能。",
+      "trivia": "",
+      "duration": "60〜90分",
+      "photos": []
+    },
+    {
+      "id": "tougei_taiken",
+      "name": "美唄市体験交流館（陶芸体験）",
+      "address": "北海道美唄市東明町3区（ゆ〜りん館隣接）",
+      "lat": 43.343413903300544,
+      "lng": 141.8941514365088,
+      "phone": "0126-64-3800",
+      "url": "",
+      "mapUrl": "https://maps.app.goo.gl/XdHPHvSmPBFQTozC8",
+      "hours": "10:00〜18:00",
+      "closed": "火曜、年末年始",
+      "fee": "手びねり体験等あり（要確認）",
+      "parking": true,
+      "themes": [
+        "unique_experience"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "ゆ〜りん館に隣接する体験施設。手びねりによる陶芸体験や絵付け体験ができる。初心者でも気軽に参加可能。見学も自由。教えてもらう場合は要予約。",
+      "trivia": "自分で陶芸やる場合は予約不要なのが助かる。本格的な4室構造の登り窯も備える。年に1回登り窯で焼く日がある。",
+      "duration": "60〜90分",
+      "photos": []
+    },
+    {
+      "id": "tatsumi",
+      "name": "やき鳥 たつみ",
+      "address": "北海道美唄市西1条南1丁目1-15",
+      "lat": 43.33285882439892,
+      "lng": 141.85904779999998,
+      "phone": "0126-63-4589",
+      "url": "https://tatsumi.store/",
+      "mapUrl": "https://maps.app.goo.gl/Evf3Tq5GDxKzLoqL6",
+      "hours": "11:00〜21:00（LO 20:30）、ランチ11:00〜14:30",
+      "closed": "火曜（祝日は営業）",
+      "fee": "昼1,500円〜 / 夜3,500円〜",
+      "parking": true,
+      "themes": [
+        "food",
+        "surprise"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "昭和43年（1968年）創業、美唄焼き鳥の最古参の老舗。全国七大やきとりの一つ。木炭使用、国産親鶏、美唄産玉葱、塩こしょう味。「もつ串」は鶏肉・皮・内臓（キンカン・肝臓・ハツ・砂肝）が1本に。串ごとに部位が異なる。ランチセット（焼き鳥2本＋そば＋とり飯）あり。「もつそば」も名物。テイクアウト・地方発送（全国初の焼き鳥地方発送店）あり。JR美唄駅から徒歩約5分。駐車場11台。",
+      "trivia": "すごく混むので席の予約は必須。特に週末やランチタイムは要注意。",
+      "duration": "40〜60分",
+      "photos": []
+    },
+    {
+      "id": "fukuyoshi",
+      "name": "元祖美唄やきとり 福よし 美唄本店",
+      "address": "北海道美唄市西2条南1丁目",
+      "lat": 43.32934838128402,
+      "lng": 141.85741745767046,
+      "phone": "0126633451",
+      "url": "https://www.fukuyoshi.tv/shop/bibai-honten/",
+      "mapUrl": "https://maps.app.goo.gl/xA72jnJmiZrFzabM6",
+      "hours": "火〜土 16:00〜21:00（ラストオーダー20:30）、日 16:00〜21:00（ラストオーダー20:30）",
+      "closed": "月曜日、第二日曜日",
+      "fee": "",
+      "parking": true,
+      "themes": [
+        "food"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "美唄焼き鳥のもう一つの人気店。たつみと食べ比べする人も多い。",
+      "trivia": "【お持ち帰り】火-日：朝から可能（前日電話予約可）。 もつ串1本180円(税込)",
+      "duration": "40〜60分",
+      "photos": []
+    },
+    {
+      "id": "kyodo_shiryokan",
+      "name": "美唄市 郷土史料館",
+      "address": "北海道美唄市西2条南1丁目（中央公園隣接）",
+      "lat": 43.33224693011826,
+      "lng": 141.85674646931813,
+      "phone": "0126621110",
+      "url": "https://www.city.bibai.hokkaido.jp/soshiki/37/1237.html",
+      "mapUrl": "https://maps.app.goo.gl/AhSVTQAyvLPhQSMy9",
+      "hours": "9:00〜17:00（入館は16:30まで）",
+      "closed": "毎週月曜日、年末年始休 12月29日~1月3日 ",
+      "fee": "一般（高校生以上) 300円、小・中学生 70円",
+      "parking": true,
+      "themes": [
+        "history_mining"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "美唄の自然・産業・文化・人々の暮らしをたどる歴史資料館。開拓と炭鉱の歴史資料が充実。常設展示と企画展あり。JR美唄駅から西へ徒歩約5分。",
+      "trivia": "結構イベントをやっている。",
+      "duration": "30〜45分",
+      "photos": []
+    },
+    {
+      "id": "kyu_sakurai_house",
+      "name": "旧桜井家住宅",
+      "address": "北海道美唄市大通西１条北２丁目２−１",
+      "lat": 43.33521402219209,
+      "lng": 141.86049791534094,
+      "phone": "0126-62-3132",
+      "url": "https://www.city.bibai.hokkaido.jp/site/shougaikanrishisetsu/1200.html",
+      "mapUrl": "https://maps.app.goo.gl/jFDSDFDujKqFGsZd9",
+      "hours": "外観見学自由（内部は要確認）",
+      "closed": "",
+      "fee": "無料",
+      "parking": true,
+      "themes": [
+        "history_mining",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "開拓時代の地元名士の住宅。裏手に美唄屯田兵屋が移築保存されている。美唄町長桜井良三、同市長桜井省吾、親子二代にわたって首長を務めた由緒ある桜井家の住宅。",
+      "trivia": "外からみれるだけっぽい",
+      "duration": "10分",
+      "photos": []
+    },
+    {
+      "id": "tondenhei_oku",
+      "name": "美唄屯田兵屋",
+      "address": "北海道美唄市西１条北２丁目２−１",
+      "lat": 43.33484683532518,
+      "lng": 141.85998805461662,
+      "phone": "",
+      "url": "https://bunka.nii.ac.jp/heritages/detail/112204",
+      "mapUrl": "https://maps.app.goo.gl/xe86m6Du8T4zsAdRA",
+      "hours": "外観見学自由",
+      "closed": "",
+      "fee": "無料",
+      "parking": true,
+      "themes": [
+        "history_mining",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "北海道開拓時代の屯田兵が住んだ兵屋を移築保存。厳しい環境での開拓生活を物語る建物。旧桜井家住宅の裏手に位置。",
+      "trivia": "外から見れるだけっぽい",
+      "duration": "10分",
+      "photos": []
+    },
+    {
+      "id": "sorachi_shrine",
+      "name": "空知神社",
+      "address": "北海道美唄市西2条南1丁目1-1",
+      "lat": 43.33288038078819,
+      "lng": 141.85671402883523,
+      "phone": "0126632448",
+      "url": "https://www.instagram.com/sorachijinja/?hl=ja",
+      "mapUrl": "https://maps.app.goo.gl/fKepBUQHGkFTv4Qq8",
+      "hours": "参拝自由",
+      "closed": "",
+      "fee": "無料",
+      "parking": true,
+      "themes": [
+        "history_mining",
+        "nature_relax",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "美唄の地域信仰の中心。JR美唄駅から徒歩約10分。",
+      "trivia": "たつみや郷土資料館の近く",
+      "duration": "10〜15分",
+      "photos": []
+    },
+    {
+      "id": "bibai_snow_land",
+      "name": "Alpen SNOWLAND 美唄（旧 美唄スノーランド）",
+      "address": "北海道美唄市字茶志内250-1",
+      "lat": 43.38508569305058,
+      "lng": 141.86769712883523,
+      "phone": "0126652889",
+      "url": "https://www.alpen-group.net/bibai_snowland/",
+      "hours": "12月上旬〜3月下旬 9:00〜16:15（最終入場15:00）",
+      "closed": "夏季（夏はゴルフ場として営業）",
+      "fee": "入場料あり。乗り放題プラン 大人8,000円/子供5,000円（日本人割引あり）",
+      "parking": true,
+      "themes": [
+        "sports_outdoor",
+        "unique_experience"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "春〜秋はゴルフ5カントリー美唄コースとして営業。27ホールのゴルフ場。"
+        },
+        "summer": {
+          "available": true,
+          "notes": "夏はゴルフ5カントリー美唄コースとして営業。フットゴルフ（9H平日1,800円〜）も人気。2025年にはフットゴルフ世界大会を開催。"
+        },
+        "autumn": {
+          "available": true,
+          "notes": "秋もゴルフ・フットゴルフ可能。紅葉の中でラウンドできる。"
+        },
+        "winter": {
+          "available": true,
+          "notes": "スノーモービルツーリング（5km/10km）、スノーラフティング、ミニスノーモービル、4輪バギー、スノーチュービング、ファットバイク等。125万㎡の広大な敷地。宿泊キャビンもあり"
+        }
+      },
+      "description": "株式会社アルペンが運営する本格スノーアクティビティパーク。125万㎡（東京ドーム27個分）の広大な敷地でスノーモービルツーリングやスノーラフティングが楽しめる。2025年シーズンより名称変更。札幌から無料シャトルバスあり。",
+      "trivia": "冬はスノーランド、夏はゴルフ5カントリー美唄コースとして通年営業。フットゴルフ（9H平日1,800円〜）も人気で、2025年8月にはFIFGフットゴルフ世界大会を開催。インバウンド客にも大人気で昨シーズン約2万人来場。要事前予約。",
+      "mapUrl": "https://maps.app.goo.gl/N81x7JneMc9GBWB28",
+      "duration": "60〜180分"
+    },
+    {
+      "id": "tatsuyama",
+      "name": "達布山展望台",
+      "address": "北海道三笠市いちきしり７７６",
+      "lat": 43.2477545,
+      "lng": 141.8376064,
+      "phone": "0126723591",
+      "url": "https://www.city.mikasa.hokkaido.jp/wadai/detail_sp/2385.html",
+      "mapUrl": "https://maps.app.goo.gl/jVQKsYj9nu9zmcuA6",
+      "hours": "常時開放",
+      "closed": "",
+      "fee": "無料",
+      "parking": true,
+      "themes": [
+        "nature_relax",
+        "art_photo",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": "緑の田園風景が広がる"
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": "積雪でアクセス困難な場合あり"
+        }
+      },
+      "description": "石狩平野を一望できる景観スポット。明治中頃には板垣退助、永山武四郎、榎本武揚、山県有朋などの要人が訪れた記録がある。現在は本郷児童公園の近くに位置。",
+      "trivia": "",
+      "duration": "15分",
+      "photos": []
+    },
+    {
+      "id": "route12_chokusen",
+      "name": "国道12号 日本一長い直線道路",
+      "address": "美唄市光珠内町〜滝川市",
+      "lat": 43.3003657,
+      "lng": 141.8484891,
+      "phone": "",
+      "url": "",
+      "mapUrl": "https://maps.app.goo.gl/2rJN72r9buVujsuc9",
+      "hours": "常時通行可",
+      "closed": "",
+      "fee": "",
+      "parking": false,
+      "themes": [
+        "nature_relax",
+        "art_photo",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": "両脇の田園風景の中を走る"
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": "路面凍結注意"
+        }
+      },
+      "description": "美唄市から滝川市にかけての国道12号は約29.2kmの日本一長い直線道路。美唄エリアを通過する際に体感できる。ドライブそのものが体験。",
+      "trivia": "",
+      "duration": "10〜15分",
+      "photos": []
+    },
+    {
+      "id": "aroma_btria",
+      "name": "B-tria Spica アロマ＆デザイン",
+      "address": "北海道美唄市東明町",
+      "lat": 43.3340158,
+      "lng": 141.8915421,
+      "phone": "",
+      "url": "https://b-aromadesign.studio.site/",
+      "mapUrl": "https://maps.app.goo.gl/mPtJBmvsLVbz4frD8",
+      "hours": "要予約",
+      "closed": "",
+      "fee": "体験プログラムにより異なる",
+      "parking": true,
+      "themes": [
+        "unique_experience"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "美唄郊外にあるアロマテラピー体験教室。オリジナルのアロマ製品づくりが体験できる。美唄ICから車約1分。",
+      "trivia": "",
+      "duration": "60〜90分",
+      "photos": []
+    },
+    {
+      "id": "numagai_kaitaku",
+      "name": "沼貝開拓記念碑",
+      "address": "北海道美唄市西２条南１丁目１",
+      "lat": 43.332311,
+      "lng": 141.8551481,
+      "phone": "",
+      "url": "",
+      "mapUrl": "https://maps.app.goo.gl/Y2ocVwkV223AJBRb8",
+      "hours": "常時見学可",
+      "closed": "",
+      "fee": "無料",
+      "parking": false,
+      "themes": [
+        "history_mining"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "美唄の旧名「沼貝」時代の開拓を記念する碑。美唄開拓の原点を示す。",
+      "trivia": "",
+      "duration": "10分",
+      "photos": []
+    },
+    {
+      "id": "tajima_farm",
+      "name": "田島農園（ハスカップ狩り）",
+      "address": "北海道美唄市光珠内町南５０８−１",
+      "lat": 43.2708577,
+      "lng": 141.8216107,
+      "phone": "080-5587-9352",
+      "url": "https://haskappu.jimdofree.com/",
+      "mapUrl": "https://maps.app.goo.gl/SoJbQPQPMCoV4efx5",
+      "hours": "ハスカップ狩り：6月下旬〜7月中旬 / 農業体験：通年（要相談）",
+      "closed": "ハスカップ狩りは7月中旬で終了。",
+      "fee": "入園無料（持ち帰り1kg 1,100円）",
+      "parking": true,
+      "themes": [
+        "nature_relax",
+        "unique_experience",
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": false,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": "6月下旬〜7月中旬がハスカップ狩りシーズン。実がなくなり次第終了。"
+        },
+        "autumn": {
+          "available": false,
+          "notes": ""
+        },
+        "winter": {
+          "available": false,
+          "notes": ""
+        }
+      },
+      "description": "1988年開園、約500本のハスカップを栽培する観光農園。美唄は全国一のハスカップ収穫量を誇り、6〜7月の短い旬に摘み取り体験ができる。国道12号線沿い、JR峰延駅から徒歩約15分とアクセスしやすい。アイヌが「不老長寿の実」と呼んだ幻の果実を自分の手で収穫できる貴重な体験。",
+      "trivia": "",
+      "duration": "90〜120分",
+      "photos": []
+    },
+    {
+      "id": "mifune",
+      "name": "味心 三船",
+      "address": "北海道美唄市西２条南４丁目１−１ 2F",
+      "lat": 43.3289443,
+      "lng": 141.8549548,
+      "phone": "0126-63-2709",
+      "url": "http://bibai-yakitori-mifune.com/",
+      "mapUrl": "https://maps.app.goo.gl/UoHPtaqZ55fYMcX9A",
+      "hours": "16:30〜24:00",
+      "closed": "火曜日",
+      "fee": "予算3,000〜4,000円",
+      "parking": true,
+      "themes": [
+        "food"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "美唄焼き鳥の元祖。昭和の初め、三船福太郎が「串一本で鶏がまるごと食べられる」という思いで始めた美唄焼き鳥発祥の店。約70年の歴史。純和風の個室でゆったり楽しめる。",
+      "trivia": "美唄焼き鳥の始まりは三船福太郎氏。樺太引揚者で、鶏一羽を余すことなく食べるために考案した。札幌や東京にも系列店あり。",
+      "duration": "40〜60分",
+      "photos": []
+    },
+    {
+      "id": "mt_gibier",
+      "name": "Mt.（エゾシカ食肉処理場）",
+      "address": "北海道美唄市進徳町2区",
+      "lat": 43.31673545177573,
+      "lng": 141.85469257310262,
+      "phone": "0126-38-5528",
+      "url": "https://mt-ezo.jp/",
+      "mapUrl": "https://maps.app.goo.gl/LEJvYux2jb59i4uR9",
+      "hours": "9:00 - 17:00",
+      "closed": "木曜日",
+      "fee": "",
+      "parking": true,
+      "themes": [
+        "food",
+        "unique_experience",
+        "local_hidden",
+        "surprise"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "「撃つ瞬間から調理が始まる」を信念に、夕張山地のエゾシカを中心とした上質なジビエを提供する食肉処理施設。国産ジビエ認証取得。アイヌ伝統の血抜き技術で極上の鹿肉を生産。",
+      "trivia": "エゾシカだけでなくヒグマやアライグマの肉も取り扱うことがある。代表の山本さん自らハンターとして山に入る。全国の飲食店から支持される品質。ジビエ肉の購入も可能。",
+      "duration": "20〜30分",
+      "photos": []
+    },
+    {
+      "id": "antenna_pipa",
+      "name": "アンテナショップ PiPa",
+      "address": "北海道美唄市進徳町",
+      "lat": 43.314577,
+      "lng": 141.8530133,
+      "phone": "0126-62-4343",
+      "url": "https://www.facebook.com/antenashoppipa/",
+      "mapUrl": "https://maps.app.goo.gl/KPCJxLr6yrKXAbN8A",
+      "hours": "10:00〜18:00",
+      "closed": "月・火・水曜日",
+      "fee": "",
+      "parking": true,
+      "themes": [
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": "朝採れ野菜が充実。夏はソフトクリームも販売"
+        },
+        "autumn": {
+          "available": true,
+          "notes": "秋の農産物が豊富。収穫祭イベントあり"
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "2009年オープン。国道12号沿いのログハウス風の小さなお店。美唄焼き鳥、とりめし、くるみ餅、新鮮野菜など「美唄の美味しい」が集まるアンテナショップ。お土産用のやきとりも販売。地元生産者の農産物・加工品も並ぶ。観光案内も受けられる。※店内での飲食はできない（テイクアウト・お土産購入のみ）。",
+      "trivia": "美唄名物の「とりめし」弁当（520円）が買える。中村地区の郷土料理で美唄産ななつぼし使用。春〜秋ならアルテピアッツァの屋外で彫刻を眺めながらピクニック的に食べるのがおすすめ（カフェアルテへの持ち込みは不可。冬は寒くて屋外飲食は厳しい）。ソフトクリームも美味しい。ドライブの途中に寄りやすい国道12号沿い。",
+      "duration": "20〜30分",
+      "photos": []
+    },
+    {
+      "id": "rv_park",
+      "name": "美唄RVパーク",
+      "address": "北海道美唄市東明町3区（ピパの湯ゆ〜りん館駐車場内）",
+      "lat": 43.3435404,
+      "lng": 141.8938815,
+      "phone": "0126-64-3800",
+      "url": "https://www.yu-rinkan.com/a-rubuipa-ku/",
+      "mapUrl": "https://maps.app.goo.gl/f1YmDPfxdk8jYo3n9",
+      "hours": "チェックイン14:00〜20:00 / チェックアウト10:00",
+      "closed": "通年営業（不定休あり）",
+      "fee": "1区画1泊2,600円（電源・ごみ処理代込）",
+      "parking": true,
+      "themes": [
+        "nature_relax",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "ゆ〜りん館駐車場内にある車中泊スポット。8台収容。すぐ横に温泉があり、RVパーク利用者は入浴割引（大人350円）。石狩平野と樺戸連山を一望できる高台の立地。",
+      "trivia": "温泉に入って美唄焼き鳥を食べてそのまま車中泊、という極楽コースが可能。ゆ〜りん館の軽食コーナーで夕食も取れる。ペット同伴可。",
+      "duration": "—",
+      "photos": []
+    },
+    {
+      "id": "park_golf",
+      "name": "美唄市パークゴルフ場",
+      "address": "北海道美唄市東明町3区",
+      "lat": 43.343227,
+      "lng": 141.8935018,
+      "phone": "0126-63-3359",
+      "url": "https://www.yu-rinkan.com/bibai/#bibai01",
+      "mapUrl": "https://maps.app.goo.gl/6AYuqrFMCoWW1ds58",
+      "hours": "4月下旬〜11月上旬 8:00〜18:00",
+      "closed": "冬季閉鎖",
+      "fee": "大人500円 / 小学生以下300円 / 温泉入浴パック900円",
+      "parking": true,
+      "themes": [
+        "sports_outdoor",
+        "nature_relax"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "4月下旬オープン"
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": "11月上旬まで"
+        },
+        "winter": {
+          "available": false,
+          "notes": "冬季閉鎖"
+        }
+      },
+      "description": "ゆ〜りん館南側の山の斜面に広がる起伏に富んだ36ホールのコース。日本パークゴルフ協会公認。レンタル（クラブ200円・ボール100円・シューズ200円）あり。",
+      "trivia": "ゆ〜りん館の温泉入浴とセットの割引パック（900円）がお得。パークゴルフ後に温泉で汗を流す黄金ルート。",
+      "duration": "60〜90分",
+      "photos": []
+    },
+    {
+      "id": "kokusetu_ski",
+      "name": "美唄国設スキー場",
+      "address": "北海道美唄市東美唄町番町",
+      "lat": 43.3215883,
+      "lng": 141.9460599,
+      "phone": "0126-68-8216",
+      "url": "https://bibaiski.jp/",
+      "mapUrl": "https://maps.app.goo.gl/2RbU3XxnPPoMnrPV7",
+      "hours": "12月〜3月 9:00〜16:00 / ナイター 火・木 16:00〜21:00",
+      "closed": "夏季（12月〜3月のみ営業）",
+      "fee": "1日券2,700円 / 4時間券2,000円 / 温泉パック1日券2,800円",
+      "parking": true,
+      "themes": [
+        "sports_outdoor"
+      ],
+      "seasons": {
+        "spring": {
+          "available": false,
+          "notes": ""
+        },
+        "summer": {
+          "available": false,
+          "notes": ""
+        },
+        "autumn": {
+          "available": false,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": "北斜面の上質パウダースノー。最大斜度25度、5コース。レンタルスキー・ボードセット各2,000円/日"
+        }
+      },
+      "description": "札幌ICから約50分の好アクセス。コンパクトながら北斜面で雪質抜群のパウダースノー。リフト1基・5コースで初心者から上級者まで。リフト代もお手頃。",
+      "trivia": "ゆ〜りん館の入浴券付き温泉パック（1日券2,800円）がお得。スキー後に車で12分の温泉で疲れを癒すのが地元民の定番。週2回のナイター営業もあり。",
+      "duration": "120〜180分",
+      "photos": []
+    },
+    {
+      "id": "uchiyama_farm",
+      "name": "うちやま農園（アスパラ狩り）",
+      "address": "北海道美唄市茶志内町3区",
+      "lat": 43.3982492,
+      "lng": 141.85201,
+      "phone": "090-9083-5098",
+      "url": "https://www.uchiyamanouen.com/",
+      "mapUrl": "https://maps.app.goo.gl/7bgyKnanVnVF7dBu8",
+      "hours": "5月〜9月中旬（要予約）",
+      "closed": "不定休",
+      "fee": "入園料1,000円/人、持ち帰り100g 200円（4人以上で申込）",
+      "parking": true,
+      "themes": [
+        "unique_experience",
+        "nature_relax",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "5月〜。ハウスアスパラは4月中旬から収穫開始"
+        },
+        "summer": {
+          "available": true,
+          "notes": "夏アスパラ（7月中旬〜9月上旬）も体験可能"
+        },
+        "autumn": {
+          "available": false,
+          "notes": "9月中旬で終了"
+        },
+        "winter": {
+          "available": false,
+          "notes": ""
+        }
+      },
+      "description": "アスパラ専業50年以上の老舗農園で収穫体験。6,000年以上堆積した泥炭土壌で育つグリーンアスパラは太くて甘くスジが少ない。畑の総面積約8ヘクタール、年間20トン生産。",
+      "trivia": "TBS「マツコの知らない世界」に農園主が出演（2019年）。「ラヴィット！」でも生中継で紹介。通販でも大人気で全国にファンがいる。予約制・4人以上で申込。",
+      "duration": "90〜120分",
+      "photos": []
+    },
+    {
+      "id": "sugiura_bakery",
+      "name": "すぎうらベーカリー",
+      "address": "北海道美唄市",
+      "lat": 43.35209279364839,
+      "lng": 141.86548714853464,
+      "phone": "0126642089",
+      "url": "https://sugiurabakery.jp/",
+      "mapUrl": "https://maps.app.goo.gl/2SxJ2mCb1XBA7Lf79",
+      "hours": "9:00 - 17:00",
+      "closed": "火曜日",
+      "fee": "",
+      "parking": true,
+      "themes": [
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "米粉シフォンケーキが有名な地元のベーカリー。",
+      "trivia": "",
+      "duration": "15〜20分",
+      "photos": []
+    },
+    {
+      "id": "cafe_staub",
+      "name": "カフェ ストウブ",
+      "address": "北海道美唄市",
+      "lat": 43.34065453586005,
+      "lng": 141.8478183680509,
+      "phone": "0126354077",
+      "url": "https://stoven.cafe/",
+      "mapUrl": "https://maps.app.goo.gl/WtC9YTnYxCCKbHi47",
+      "hours": "パン販売 10:00〜18:00 / ランチ 11:00〜14:00（14:00LO、予約すれば14:00以降も可） / カフェ（デザート・ドリンク・軽食）11:00〜17:00（16:00LO）",
+      "closed": "月曜・火曜・第1第3水曜",
+      "fee": "",
+      "parking": true,
+      "themes": [
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "釜で焼いてるハード系のパンが人気のカフェ。フォカッチャが美味しい。ランチやカフェメニューもあり、注文を受けてから作るスタイルなので少し時間がかかる。事前に連絡しておくとスムーズ。テイクアウトも可能。",
+      "trivia": "パンは午後には売り切れてることが多いので、パン目当てなら早めの時間に。カフェ利用は16:00LOなので注意。",
+      "duration": "40〜60分",
+      "photos": []
+    },
+    {
+      "id": "pasta_satou",
+      "name": "パスタさとう",
+      "address": "北海道美唄市",
+      "lat": 43.3339493624501,
+      "lng": 141.86546115455624,
+      "phone": "0126642737",
+      "url": "",
+      "mapUrl": "https://maps.app.goo.gl/o6wxQGZzhxre5otF7",
+      "hours": "11:00 - 15:00、17:00 - 19:00",
+      "closed": "不定休",
+      "fee": "",
+      "parking": true,
+      "themes": [
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "こだわりのパスタが楽しめるお店。",
+      "trivia": "夜は完全予約制らしい。",
+      "duration": "40〜60分",
+      "photos": []
+    },
+    {
+      "id": "french_opa",
+      "name": "鉄板フレンチ OPa",
+      "address": "北海道美唄市",
+      "lat": 43.35975428284565,
+      "lng": 141.86768255455732,
+      "phone": "0126633235",
+      "url": "http://www.teppanfrench-opa.com/",
+      "mapUrl": "https://maps.app.goo.gl/V6Vyu2hY7TMMqRsk7",
+      "hours": "11:00 - 13:30、17:00 - 21:00",
+      "closed": "水曜日",
+      "fee": "",
+      "parking": true,
+      "themes": [
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "ランチはローストビーフ丼が有名。夜は一組限定の完全予約制。",
+      "trivia": "夜の一組限定ディナーは予約必須。ランチでも人気なので早めの来店がおすすめ。",
+      "duration": "60〜90分",
+      "photos": []
+    },
+    {
+      "id": "juraku",
+      "name": "寿楽",
+      "address": "北海道美唄市",
+      "lat": 43.3309019,
+      "lng": 141.8578606,
+      "phone": "0126626671",
+      "url": "https://www.jyuraku.info/",
+      "mapUrl": "https://maps.app.goo.gl/sQtS169sGisYU8Y79",
+      "hours": "11:00 - 14:30、17:00 - 20:00",
+      "closed": "月曜日",
+      "fee": "",
+      "parking": true,
+      "themes": [
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "もともとは寿司屋だが、今は洋食もいろいろある。ザンギや冷やしトマトも美味しい。",
+      "trivia": "",
+      "duration": "40〜60分",
+      "photos": []
+    },
+    {
+      "id": "sennakari",
+      "name": "ふぁみり～れすとらん 仙中里",
+      "address": "北海道美唄市",
+      "lat": 43.33125667908301,
+      "lng": 141.8556937410619,
+      "phone": "0126625456",
+      "url": "https://bibai-shoppingst.com/senchuri/",
+      "mapUrl": "https://maps.app.goo.gl/7raXtmR5tETm48co8",
+      "hours": "11:00 - 21:00",
+      "closed": "月曜日",
+      "fee": "",
+      "parking": true,
+      "themes": [
+        "food"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "地元で親しまれている普通のファミリーレストラン。",
+      "trivia": "",
+      "duration": "40〜60分",
+      "photos": []
+    },
+    {
+      "id": "fuji_kanko",
+      "name": "レストラン 藤観光",
+      "address": "北海道美唄市",
+      "lat": 43.3149065274346,
+      "lng": 141.8562803103794,
+      "phone": "0126626037",
+      "url": "http://fujikan.server-shared.com/",
+      "mapUrl": "https://maps.app.goo.gl/haNPWPRQXnGyKk8o6",
+      "hours": "11:00 - 14:00、17:00 - 20:00",
+      "closed": "月曜日",
+      "fee": "",
+      "parking": true,
+      "themes": [
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "定食が普通においしくて安い地元のレストラン。昭和レトロな感じ。",
+      "trivia": "実はここで養蜂もやっている。",
+      "duration": "40〜60分",
+      "photos": []
+    },
+    {
+      "id": "smart_agri_tractor",
+      "name": "スマート農業・トラクター乗車体験",
+      "address": "北海道美唄市（市内農家）",
+      "lat": 43.34,
+      "lng": 141.85,
+      "phone": "",
+      "url": "",
+      "mapUrl": "",
+      "hours": "要予約・要相談",
+      "closed": "冬季（12〜3月）",
+      "fee": "要問合せ",
+      "parking": true,
+      "themes": [
+        "unique_experience",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "春の田起こし・田植え時期にトラクター体験が可能"
+        },
+        "summer": {
+          "available": true,
+          "notes": "畑作業の最盛期。GPS自動操舵トラクターの実演も"
+        },
+        "autumn": {
+          "available": true,
+          "notes": "収穫期のトラクター作業を体験できる"
+        },
+        "winter": {
+          "available": false,
+          "notes": "農閑期のため体験不可"
+        }
+      },
+      "description": "美唄の広大な農地で最新のスマート農業技術を体感。GPS自動操舵やドローンなど先端技術を導入した農家で、実際にトラクターに乗車して圃場を走る体験ができる。北海道ならではのスケールの大きな農業を間近で感じられる。要事前予約・農家との日程調整が必要。",
+      "trivia": "美唄は北海道有数の米どころ。広大な水田地帯にまっすぐ走るトラクターの光景は圧巻。最新のスマート農業では、GPSで数センチ単位の精度で自動走行するトラクターも。",
+      "duration": "60〜120分",
+      "photos": []
+    },
+    {
+      "id": "gibier_trap_tour",
+      "name": "ジビエわな巡回体験（見学）",
+      "address": "北海道美唄市（山間部）",
+      "lat": 43.32,
+      "lng": 141.92,
+      "phone": "0126-38-5528",
+      "url": "https://mt-ezo.jp/",
+      "mapUrl": "",
+      "hours": "要予約（早朝出発）",
+      "closed": "",
+      "fee": "要問合せ",
+      "parking": true,
+      "themes": [
+        "unique_experience",
+        "local_hidden",
+        "surprise"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "春のわな猟を見学可能"
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": "猟期が始まり、わなの設置数が増える時期"
+        },
+        "winter": {
+          "available": true,
+          "notes": "雪山でのわな巡回。防寒装備必須。積雪状況によりアクセス困難な場合あり"
+        }
+      },
+      "description": "エゾシカ食肉処理施設「Mt.」の猟師に同行し、山中に設置されたわなを巡回する見学体験。実際の狩猟現場を間近で見ることで、野生動物との共生やジビエの「命をいただく」過程を学べる。早朝出発で山に入り、わなの仕組みや動物の痕跡の読み方なども教わる。完全予約制。",
+      "trivia": "「Mt.」代表の山本さん自らガイドしてくれることも。「撃つ瞬間から調理が始まる」という信念を持つプロの猟師から、命と食の繋がりを直接聞ける貴重な体験。",
+      "duration": "120〜180分",
+      "photos": []
+    },
+    {
+      "id": "gibier_kaitai",
+      "name": "ジビエ解体体験",
+      "address": "北海道美唄市進徳町2区",
+      "lat": 43.31673545177573,
+      "lng": 141.85469257310262,
+      "phone": "0126-38-5528",
+      "url": "https://mt-ezo.jp/",
+      "mapUrl": "https://maps.app.goo.gl/LEJvYux2jb59i4uR9",
+      "hours": "要予約",
+      "closed": "",
+      "fee": "要問合せ",
+      "parking": true,
+      "themes": [
+        "unique_experience",
+        "local_hidden",
+        "surprise"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": "猟期に入り、解体体験の機会が増える"
+        },
+        "winter": {
+          "available": true,
+          "notes": "冬のエゾシカは脂がのっている"
+        }
+      },
+      "description": "国産ジビエ認証を取得した食肉処理施設「Mt.」で、エゾシカの解体工程を体験・見学。プロの猟師から解体技術やアイヌ伝統の血抜き技術を学びながら、命と食のつながりを深く考える体験。衛生管理された施設内で、食肉がどのように加工されるかを間近で知ることができる。完全予約制。",
+      "trivia": "「Mt.」はアイヌ伝統の血抜き技術を応用し、臭みのない極上の鹿肉を生産。全国の有名レストランから引き合いがある品質。体験後にジビエ肉の購入も可能。",
+      "duration": "120〜180分",
+      "photos": []
+    },
+    {
+      "id": "haskap_kakou",
+      "name": "ハスカップ加工体験（ジャム・塩漬け）",
+      "address": "北海道美唄市（市内加工施設）",
+      "lat": 43.33,
+      "lng": 141.86,
+      "phone": "",
+      "url": "",
+      "mapUrl": "",
+      "hours": "要予約・要相談",
+      "closed": "",
+      "fee": "要問合せ（材料費込み）",
+      "parking": true,
+      "themes": [
+        "unique_experience",
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": false,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": "6〜7月の収穫直後が最適。摘みたてのハスカップでジャムや塩漬けを作れる"
+        },
+        "autumn": {
+          "available": true,
+          "notes": "冷凍保存したハスカップを使って加工体験が可能な場合あり"
+        },
+        "winter": {
+          "available": false,
+          "notes": ""
+        }
+      },
+      "description": "全国一のハスカップ収穫量を誇る美唄で、収穫したハスカップを使ったジャムや塩漬けの加工体験。地元のお母さんたちに教わりながら、美唄の伝統的な保存食づくりを学ぶ。作ったジャムや塩漬けはお土産として持ち帰れる。ハスカップ狩りとセットで楽しむのがおすすめ。要事前予約。",
+      "trivia": "ハスカップの塩漬けは美唄の家庭に昔から伝わる保存食。おにぎりの具やお茶請けとして親しまれている。ジャムはヨーグルトやパンに合う爽やかな酸味が特徴。",
+      "duration": "60〜90分",
+      "photos": []
+    },
+    {
+      "id": "artepiazza_ochiba",
+      "name": "アルテピアッツァ落ち葉掃除",
+      "address": "北海道美唄市落合町栄町",
+      "lat": 43.33293556487453,
+      "lng": 141.91152427116475,
+      "phone": "0126-63-3137",
+      "url": "https://www.artepiazza.jp/",
+      "mapUrl": "https://maps.app.goo.gl/XSehyvD1w71MQPXu6",
+      "hours": "要確認（秋季の特定日に開催）",
+      "closed": "",
+      "fee": "無料（ボランティア活動）",
+      "parking": true,
+      "themes": [
+        "unique_experience",
+        "art_photo",
+        "nature_relax"
+      ],
+      "seasons": {
+        "spring": {
+          "available": false,
+          "notes": ""
+        },
+        "summer": {
+          "available": false,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": "10〜11月の紅葉後が落ち葉掃除の時期。彫刻と紅葉の景色を楽しみながら活動できる"
+        },
+        "winter": {
+          "available": false,
+          "notes": ""
+        }
+      },
+      "description": "世界的彫刻家・安田侃の作品が点在するアルテピアッツァ美唄で、秋の落ち葉掃除ボランティアに参加。旧栄小学校跡地の広大な敷地を、地元のスタッフやボランティアと一緒に掃き清める。美術館の美しい景観を守る活動に関わりながら、普段は入れないエリアや彫刻の裏側も見られる特別な体験。作業後はカフェアルテでの休憩が心地よい。",
+      "trivia": "落ち葉掃除をしていると、彫刻の足元や裏側など普段気づかない角度から作品を観察できる。スタッフとの会話からアルテピアッツァの裏話が聞けることも。",
+      "duration": "120〜180分",
+      "photos": []
+    },
+    {
+      "id": "artepiazza_kusatori",
+      "name": "アルテピアッツァ草取りボランティア",
+      "address": "北海道美唄市落合町栄町",
+      "lat": 43.33293556487453,
+      "lng": 141.91152427116475,
+      "phone": "0126-63-3137",
+      "url": "https://www.artepiazza.jp/",
+      "mapUrl": "https://maps.app.goo.gl/XSehyvD1w71MQPXu6",
+      "hours": "要確認（夏季の特定日に開催）",
+      "closed": "",
+      "fee": "無料（ボランティア活動）",
+      "parking": true,
+      "themes": [
+        "unique_experience",
+        "art_photo",
+        "nature_relax"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": "5〜6月は草が伸び始める時期。草取りの需要が高まる"
+        },
+        "summer": {
+          "available": true,
+          "notes": "草の生育が最も旺盛な時期。草取りボランティアの本番"
+        },
+        "autumn": {
+          "available": true,
+          "notes": "秋口まで草取り活動あり"
+        },
+        "winter": {
+          "available": false,
+          "notes": "積雪のため草取り不要"
+        }
+      },
+      "description": "アルテピアッツァ美唄の敷地内で草取りボランティアに参加。彫刻作品の周囲や散策路の雑草を丁寧に取り除き、美術館の美しい景観維持に貢献する。自然の中で体を動かしながら、アートと自然が調和する空間を自分の手で守る実感が得られる。地元ボランティアとの交流も楽しい。作業道具は貸し出しあり。",
+      "trivia": "草取りをしていると、彫刻と芝生の境界がいかに大切に管理されているかがわかる。安田侃の作品は自然との一体感がコンセプトなので、草取りも立派なアート活動の一部。",
+      "duration": "120〜180分",
+      "photos": []
+    },
+    {
+      "id": "pon_gashi_sadahiro",
+      "name": "ポン菓子作り［よーいドン］（貞広農場）",
+      "address": "北海道美唄市（貞広農場）",
+      "lat": 43.35,
+      "lng": 141.86,
+      "phone": "",
+      "url": "",
+      "mapUrl": "",
+      "hours": "要予約・要相談",
+      "closed": "",
+      "fee": "要問合せ",
+      "parking": true,
+      "themes": [
+        "unique_experience",
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": "新米の季節。収穫したばかりのお米でポン菓子を作れる"
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "貞広農場で昔懐かしいポン菓子（ポン煎餅）作りを体験。専用の圧力釜にお米を入れて加熱し、「よーいドン！」の掛け声とともにフタを開けると「ドカン！」という大音響とともにお米がポン菓子に膨らむ。子どもから大人まで大興奮間違いなしの体験。美唄産のお米を使ったできたてのポン菓子は格別の味。要事前予約。",
+      "trivia": "ポン菓子機のフタを開ける瞬間の爆音と蒸気は迫力満点。「よーいドン！」のカウントダウンから爆発までのドキドキ感が最高。昔は北海道の農村部でおやつとして親しまれていた。",
+      "duration": "30〜60分",
+      "photos": []
+    },
+    {
+      "id": "yukinoshita_harvest",
+      "name": "雪の下キャベツ・雪の下ニンジン収穫体験",
+      "address": "北海道美唄市（市内農家）",
+      "lat": 43.34,
+      "lng": 141.84,
+      "phone": "",
+      "url": "",
+      "mapUrl": "",
+      "hours": "要予約・要相談",
+      "closed": "",
+      "fee": "要問合せ（収穫した野菜の持ち帰り含む）",
+      "parking": true,
+      "themes": [
+        "unique_experience",
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": false,
+          "notes": ""
+        },
+        "summer": {
+          "available": false,
+          "notes": ""
+        },
+        "autumn": {
+          "available": false,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": "12〜2月が収穫体験の適期。雪を掘り起こして野菜を収穫する"
+        }
+      },
+      "description": "美唄の厳しい冬を逆手に取った「雪の下野菜」の収穫体験。秋に収穫せずあえて畑に残したキャベツやニンジンを、雪の下から掘り出す。雪の天然冷蔵庫で貯蔵された野菜はデンプンが糖分に変わり、驚くほど甘くなる。スコップで雪を掘り、白銀の畑から宝物を掘り出すような感覚は冬の美唄ならではの体験。収穫した野菜はお土産に。要事前予約。",
+      "trivia": "雪の下で越冬した野菜は、凍結を防ぐために自ら糖度を上げる。雪の下キャベツは通常の1.5〜2倍の甘さになるとも。掘り出した瞬間の鮮やかな緑色と雪の白のコントラストが美しい。",
+      "duration": "60〜90分",
+      "photos": []
+    },
+    {
+      "id": "josetsu_volunteer",
+      "name": "除雪ボランティア",
+      "address": "北海道美唄市（市内各所）",
+      "lat": 43.33,
+      "lng": 141.86,
+      "phone": "",
+      "url": "",
+      "mapUrl": "",
+      "hours": "要予約・要相談（朝から活動が多い）",
+      "closed": "",
+      "fee": "無料（ボランティア活動）",
+      "parking": true,
+      "themes": [
+        "unique_experience",
+        "sports_outdoor",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": false,
+          "notes": ""
+        },
+        "summer": {
+          "available": false,
+          "notes": ""
+        },
+        "autumn": {
+          "available": false,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": "12〜3月。特に1〜2月の積雪ピーク時にボランティアの需要が高い"
+        }
+      },
+      "description": "豪雪地帯・美唄で冬の暮らしを体感する除雪ボランティア。高齢者宅の玄関先や通学路などの除雪作業を地元の人と一緒に行う。北海道有数の豪雪地帯である美唄の冬の厳しさと、それを支え合うコミュニティの温かさを肌で感じられる。スコップを握って汗を流した後は、地元の方からの温かいお茶やお菓子のおもてなしが待っていることも。防寒装備必須。要事前連絡。",
+      "trivia": "美唄は年間降雪量が非常に多く、屋根の雪下ろしや玄関の除雪は冬の日課。高齢化が進む地域では除雪の担い手不足が深刻で、ボランティアの力は本当にありがたがられる。いい運動にもなる。",
+      "duration": "120〜180分",
+      "photos": []
+    },
+    {
+      "id": "tape",
+      "name": "日用品と喫茶 Tape（テープ）",
+      "address": "北海道美唄市",
+      "lat": 43.329956717948015,
+      "lng": 141.8552814768567,
+      "phone": "0126-38-5306",
+      "url": "https://instagram.com/tape_bibai",
+      "mapUrl": "https://maps.app.goo.gl/2YTdk3kcgAZVhgXB8",
+      "hours": "9:00〜17:30",
+      "closed": "月曜・日曜",
+      "fee": "",
+      "parking": false,
+      "themes": [
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "日用品と喫茶を楽しめるお店。美唄の暮らしに寄り添う日用品のセレクトと、ゆったりとくつろげる喫茶スペースが魅力。",
+      "trivia": "",
+      "duration": "30〜60分",
+      "photos": []
+    },
+    {
+      "id": "tonarino_tonakai",
+      "name": "トナリノトナカイ",
+      "address": "北海道美唄市",
+      "lat": 43.28544489933426,
+      "lng": 141.85445362444418,
+      "phone": "",
+      "url": "https://tonarinotonakai.hp.peraichi.com/",
+      "mapUrl": "https://maps.app.goo.gl/XMpF6HZV7Sf1sFBp7",
+      "hours": "不定（マフィン完売次第終了）",
+      "closed": "不定休（営業日が限られるため要確認）",
+      "fee": "",
+      "parking": false,
+      "themes": [
+        "food",
+        "local_hidden",
+        "nature_relax"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": "外で食べられる"
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "マフィンとピザが楽しめるお店。マフィンが完売したら営業終了。ピザは予約が必要。小さい小屋をレンタルすることもでき、休憩や食事に利用可能。レンタル予約がない時間帯ならその場で利用もできる。夏は外で食べるのもおすすめ。",
+      "trivia": "やっている日が限られるので、事前に営業日を確認してから訪れるのがベスト。小屋レンタルは予約優先だが、空いていればふらっと利用もOK。",
+      "duration": "30〜60分",
+      "photos": []
+    },
+    {
+      "id": "puzzle_akinai",
+      "name": "puzzle.akinai",
+      "address": "北海道美唄市",
+      "lat": 43.33178625860656,
+      "lng": 141.8642988875837,
+      "phone": "",
+      "url": "https://www.instagram.com/puzzle.akinai/",
+      "mapUrl": "https://maps.app.goo.gl/ZxQk3ZeHUZ4N27KKA",
+      "hours": "10:00〜17:00",
+      "closed": "不定休（営業カレンダー要確認）",
+      "fee": "",
+      "parking": false,
+      "themes": [
+        "food",
+        "local_hidden"
+      ],
+      "seasons": {
+        "spring": {
+          "available": true,
+          "notes": ""
+        },
+        "summer": {
+          "available": true,
+          "notes": ""
+        },
+        "autumn": {
+          "available": true,
+          "notes": ""
+        },
+        "winter": {
+          "available": true,
+          "notes": ""
+        }
+      },
+      "description": "りんご飴専門店＆カフェ。キッチンカーで営業している日もあるため、訪問前に営業カレンダーの確認が必須。",
+      "trivia": "店舗営業とキッチンカー営業の日があるので、Instagramの営業カレンダーを事前にチェックしてから訪れるのがおすすめ。",
+      "duration": "15〜30分",
+      "photos": []
+    }
+  ],
+  "events": [
+    {
+      "id": "bibai_sakura",
+      "name": "びばいさくら",
+      "period": "4月下旬〜5月上旬（桜の開花に合わせて3日間程度）",
+      "period_example": "2025年は4/27〜4/29",
+      "location": "東明公園",
+      "description": "日本最北のソメイヨシノ群生地・東明公園で約2,000本の桜が咲く時期に開催。夜桜ライトアップ、打ち上げ花火、飲食屋台が楽しめる。",
+      "themes": [
+        "nature_relax",
+        "art_photo",
+        "food"
+      ],
+      "season": "spring",
+      "url": "https://bibai-event.com/bibaisakura2025/"
+    },
+    {
+      "id": "bibai_kabura",
+      "name": "びばい歌舞裸（かぶら）まつり",
+      "period": "8月第1土曜・日曜",
+      "period_example": "2025年は8/2〜8/3",
+      "location": "美唄市役所前駐車場・中央公園周辺",
+      "description": "1994年から続く美唄最大の夏祭り。「歌（うた）・舞（おどり）・裸（みこし）」がテーマ。ステージライブ、神輿渡御、盆踊り、美唄やきとり屋台、こども縁日など。例年約1万人が来場。",
+      "themes": [
+        "food",
+        "unique_experience",
+        "surprise"
+      ],
+      "season": "summer",
+      "url": "https://bibai-event.com/kabura2025/"
+    },
+    {
+      "id": "bibai_noasobi",
+      "name": "BIBAI NOASOBI",
+      "period": "9月上旬（土日2日間）",
+      "period_example": "2025年は9/6〜9/7",
+      "location": "東明公園・サン・スポーツランド美唄",
+      "description": "2020年初開催の体験型アウトドアイベント。SUP、カヌー、ジップライン、マウンテンバイク、四輪バギーなどを低価格で体験可能。夜はキャンプファイヤーや野外シアターも。",
+      "themes": [
+        "sports_outdoor",
+        "unique_experience",
+        "nature_relax"
+      ],
+      "season": "autumn",
+      "url": "https://bibai-event.com/noasobicamp2025/"
+    },
+    {
+      "id": "bibai_yukinko",
+      "name": "びばい雪んこまつり",
+      "period": "2月第1土曜・日曜",
+      "period_example": "2025年は2/1〜2/2",
+      "location": "中央公園周辺・コアビバイ・郷土史料館",
+      "description": "70年以上の歴史を持つ美唄の冬の風物詩。すべり台付き大雪像、スノーアクティビティ、サバイバルゲーム、謎解き、びばい雪あかり（キャンドル）など。子どもから大人まで楽しめる。",
+      "themes": [
+        "sports_outdoor",
+        "unique_experience",
+        "surprise"
+      ],
+      "season": "winter",
+      "url": "https://bibai-event.com/bibaiyukinko2025/"
+    },
+    {
+      "id": "haskap_season",
+      "name": "ハスカップ狩りシーズン",
+      "period": "6月下旬〜7月中旬（実がなくなり次第終了）",
+      "period_example": "2025年は6/22頃〜7月上旬",
+      "location": "峰延地区の各ハスカップ農園（田島農園ほか6農園）",
+      "description": "全国一の収穫量を誇る美唄のハスカップ。アイヌが「不老長寿の実」と呼んだ幻の果実を自分の手で摘み取る体験。入園無料、持ち帰り1kg 1,100円。",
+      "themes": [
+        "nature_relax",
+        "unique_experience",
+        "food",
+        "local_hidden"
+      ],
+      "season": "summer",
+      "url": "https://haskappu.jimdofree.com/"
+    },
+    {
+      "id": "bibai_bon_odori",
+      "name": "びばい盆踊り",
+      "period": "8月15日・16日",
+      "period_example": "2025年は8/15〜8/16",
+      "location": "市内会場",
+      "description": "こどもの部「新美唄音頭」（16時〜）とおとなの部「北海盆唄」（18時〜）。雨天時は翌日順延。",
+      "themes": [
+        "unique_experience",
+        "local_hidden"
+      ],
+      "season": "summer",
+      "url": ""
+    }
+  ]
+}

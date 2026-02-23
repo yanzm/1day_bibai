@@ -16,7 +16,8 @@
       "themes": [
         "art_photo",
         "nature_relax",
-        "surprise"
+        "surprise",
+        "local_hidden"
       ],
       "seasons": {
         "spring": {
@@ -302,8 +303,8 @@
       "parking": true,
       "themes": [
         "nature_relax",
-        "unique_experience",
-        "surprise"
+        "surprise",
+        "sports_outdoor"
       ],
       "seasons": {
         "spring": {
@@ -421,7 +422,8 @@
       "fee": "",
       "parking": true,
       "themes": [
-        "food"
+        "food",
+        "surprise"
       ],
       "seasons": {
         "spring": {
@@ -499,8 +501,7 @@
       "fee": "無料",
       "parking": true,
       "themes": [
-        "history_mining",
-        "local_hidden"
+        "history_mining"
       ],
       "seasons": {
         "spring": {
@@ -539,8 +540,7 @@
       "fee": "無料",
       "parking": true,
       "themes": [
-        "history_mining",
-        "local_hidden"
+        "history_mining"
       ],
       "seasons": {
         "spring": {
@@ -619,8 +619,7 @@
       "fee": "入場料あり。乗り放題プラン 大人8,000円/子供5,000円（日本人割引あり）",
       "parking": true,
       "themes": [
-        "sports_outdoor",
-        "unique_experience"
+        "sports_outdoor"
       ],
       "seasons": {
         "spring": {
@@ -643,7 +642,8 @@
       "description": "株式会社アルペンが運営する本格スノーアクティビティパーク。125万㎡（東京ドーム27個分）の広大な敷地でスノーモービルツーリングやスノーラフティングが楽しめる。2025年シーズンより名称変更。札幌から無料シャトルバスあり。",
       "trivia": "冬はスノーランド、夏はゴルフ5カントリー美唄コースとして通年営業。フットゴルフ（9H平日1,800円〜）も人気で、2025年8月にはFIFGフットゴルフ世界大会を開催。インバウンド客にも大人気で昨シーズン約2万人来場。要事前予約。",
       "mapUrl": "https://maps.app.goo.gl/N81x7JneMc9GBWB28",
-      "duration": "60〜180分"
+      "duration": "60〜180分",
+      "photos": []
     },
     {
       "id": "tatsuyama",
@@ -725,45 +725,6 @@
       "description": "美唄市から滝川市にかけての国道12号は約29.2kmの日本一長い直線道路。美唄エリアを通過する際に体感できる。ドライブそのものが体験。",
       "trivia": "",
       "duration": "10〜15分",
-      "photos": []
-    },
-    {
-      "id": "aroma_btria",
-      "name": "B-tria Spica アロマ＆デザイン",
-      "address": "北海道美唄市東明町",
-      "lat": 43.3340158,
-      "lng": 141.8915421,
-      "phone": "",
-      "url": "https://b-aromadesign.studio.site/",
-      "mapUrl": "https://maps.app.goo.gl/mPtJBmvsLVbz4frD8",
-      "hours": "要予約",
-      "closed": "",
-      "fee": "体験プログラムにより異なる",
-      "parking": true,
-      "themes": [
-        "unique_experience"
-      ],
-      "seasons": {
-        "spring": {
-          "available": true,
-          "notes": ""
-        },
-        "summer": {
-          "available": true,
-          "notes": ""
-        },
-        "autumn": {
-          "available": true,
-          "notes": ""
-        },
-        "winter": {
-          "available": true,
-          "notes": ""
-        }
-      },
-      "description": "美唄郊外にあるアロマテラピー体験教室。オリジナルのアロマ製品づくりが体験できる。美唄ICから車約1分。",
-      "trivia": "",
-      "duration": "60〜90分",
       "photos": []
     },
     {
@@ -943,7 +904,8 @@
       "parking": true,
       "themes": [
         "food",
-        "local_hidden"
+        "local_hidden",
+        "surprise"
       ],
       "seasons": {
         "spring": {
@@ -1342,7 +1304,8 @@
       "fee": "",
       "parking": true,
       "themes": [
-        "food"
+        "food",
+        "local_hidden"
       ],
       "seasons": {
         "spring": {
@@ -1626,7 +1589,6 @@
       "parking": true,
       "themes": [
         "unique_experience",
-        "art_photo",
         "nature_relax"
       ],
       "seasons": {
@@ -1708,7 +1670,6 @@
       "parking": true,
       "themes": [
         "unique_experience",
-        "food",
         "local_hidden"
       ],
       "seasons": {
@@ -1790,7 +1751,8 @@
       "parking": false,
       "themes": [
         "food",
-        "local_hidden"
+        "local_hidden",
+        "art_photo"
       ],
       "seasons": {
         "spring": {
@@ -1831,7 +1793,8 @@
       "themes": [
         "food",
         "local_hidden",
-        "nature_relax"
+        "nature_relax",
+        "art_photo"
       ],
       "seasons": {
         "spring": {

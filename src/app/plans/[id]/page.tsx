@@ -4,7 +4,8 @@ import { useEffect, useState } from "react";
 import { useParams, useRouter } from "next/navigation";
 import { Share2, Check } from "lucide-react";
 import { TravelPlan, ComicData } from "@/types/plan";
-import { getPlanById, deletePlan, savePlan } from "@/lib/storage";
+import { getPlanById, deletePlan, savePlan, migrateComicsToIndexedDB } from "@/lib/storage";
+import { getComic } from "@/lib/comic-storage";
 import { PlanView } from "@/components/PlanView";
 import { RouteMap } from "@/components/RouteMap";
 import { Button } from "@/components/ui/button";
@@ -41,10 +42,21 @@ export default function PlanDetailPage() {
 
   useEffect(() => {
     const id = params.id as string;
-    const found = getPlanById(id);
-    if (found) {
-      setPlan(found);
-    }
+
+    // 旧データの移行後に comic を IndexedDB から取得
+    migrateComicsToIndexedDB()
+      .catch(() => {})
+      .then(() => {
+        const found = getPlanById(id);
+        if (!found) return;
+        return getComic(id).then((comic) => {
+          setPlan(comic ? { ...found, comic } : found);
+        });
+      })
+      .catch(() => {
+        const found = getPlanById(id);
+        if (found) setPlan(found);
+      });
   }, [params.id]);
 
   const handleComicGenerated = (comic: ComicData) => {

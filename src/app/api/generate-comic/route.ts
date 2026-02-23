@@ -25,19 +25,22 @@ async function loadCharacterImage(filename: string): Promise<{ data: string; mim
 
 function buildComicPrompt(data: ComicRequest): string {
   const spotsText = data.spots.slice(0, 3).join("、");
-  return `Generate a single vertical 4-panel comic strip (4koma manga style) image.
+  return `Draw a vertical 4-panel comic strip (4koma manga) as a single image.
 
-Characters: A cute bean goose bird mascot named "マミィーちゃん" and a funny yakitori skewer man named "やきとり男" (shown in the reference images).
+IMPORTANT: You MUST use EXACTLY the two characters from the reference images above. Do NOT draw humans. Do NOT replace them with other characters.
+- Character 1 (first reference image): "マミーちゃん" - Keep her exact appearance from the reference image.
+- Character 2 (second reference image): "やきとり男" - Keep his exact appearance from the reference image.
 
-Setting: They are visiting Bibai, Hokkaido, Japan. Theme: "${data.theme}", Season: "${data.season}".
-Places they visit: ${spotsText}
+These two characters are visiting Bibai, Hokkaido. Theme: "${data.theme}", Season: "${data.season}".
+Places: ${spotsText}
 
-Panel 1 (top): The two characters arrive excitedly in Bibai.
-Panel 2: They enjoy visiting a spot together.
-Panel 3: やきとり男 does something silly or unexpected.
-Panel 4 (bottom): Funny punchline ending.
+Panel 1: The two characters from the reference images arrive in Bibai excitedly.
+Panel 2: They visit a spot together and have fun.
+Panel 3: やきとり男 does something silly.
+Panel 4: Funny punchline ending.
 
-Style: Cute, colorful, kawaii manga style. Each panel has speech bubbles with short Japanese text. Panels are stacked vertically in one image with clear borders between them.`;
+Style: Cute kawaii manga. Speech bubbles with short Japanese dialogue. Vertical layout, 4 panels stacked, clear black borders.
+CRITICAL: Both characters must look exactly like the attached reference images in every panel. No humans.`;
 }
 
 export async function POST(request: NextRequest) {
@@ -60,13 +63,15 @@ export async function POST(request: NextRequest) {
 
     const prompt = buildComicPrompt(data);
 
-    // コンテンツパーツを構築（参考画像を先に、プロンプトを後に）
+    // コンテンツパーツを構築（各画像の前にキャラ説明を付けて紐付け）
     const contents: Array<{ text: string } | { inlineData: { mimeType: string; data: string } }> = [];
 
     if (mamyImage) {
+      contents.push({ text: "This is Character 1 'マミーちゃん' - a bean goose bird mascot. You MUST draw this exact character in the comic:" });
       contents.push({ inlineData: { mimeType: mamyImage.mimeType, data: mamyImage.data } });
     }
     if (yakitoriImage) {
+      contents.push({ text: "This is Character 2 'やきとり男' - a yakitori skewer mascot. You MUST draw this exact character in the comic:" });
       contents.push({ inlineData: { mimeType: yakitoriImage.mimeType, data: yakitoriImage.data } });
     }
     contents.push({ text: prompt });

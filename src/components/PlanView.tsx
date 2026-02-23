@@ -46,6 +46,11 @@ export function PlanView({ plan, onComicGenerated }: PlanViewProps) {
         </div>
       )}
 
+      {/* 4コマ漫画 */}
+      {onComicGenerated && (
+        <ComicStrip plan={plan} onComicGenerated={onComicGenerated} />
+      )}
+
       {/* ルートタイムライン */}
       {route.length > 0 && (
         <div className="relative">
@@ -94,11 +99,6 @@ export function PlanView({ plan, onComicGenerated }: PlanViewProps) {
             ))}
           </div>
         </div>
-      )}
-
-      {/* 4コマ漫画 */}
-      {onComicGenerated && (
-        <ComicStrip plan={plan} onComicGenerated={onComicGenerated} />
       )}
 
       {/* 帰り道・注意書き */}

@@ -3,8 +3,8 @@
 import { useEffect, useState } from "react";
 import { useParams, useRouter } from "next/navigation";
 import { Share2, Check } from "lucide-react";
-import { TravelPlan } from "@/types/plan";
-import { getPlanById, deletePlan } from "@/lib/storage";
+import { TravelPlan, ComicData } from "@/types/plan";
+import { getPlanById, deletePlan, savePlan } from "@/lib/storage";
 import { PlanView } from "@/components/PlanView";
 import { RouteMap } from "@/components/RouteMap";
 import { Button } from "@/components/ui/button";
@@ -46,6 +46,13 @@ export default function PlanDetailPage() {
       setPlan(found);
     }
   }, [params.id]);
+
+  const handleComicGenerated = (comic: ComicData) => {
+    if (!plan) return;
+    const updated = { ...plan, comic };
+    setPlan(updated);
+    savePlan(updated);
+  };
 
   const handleDelete = () => {
     if (!plan) return;
@@ -151,7 +158,7 @@ export default function PlanDetailPage() {
         {/* 左カラム: プラン本文 */}
         <Card className="flex-1 min-w-0 shadow-lg shadow-primary/5 border-border/60">
           <CardContent className="p-6 sm:p-8">
-            <PlanView plan={plan} />
+            <PlanView plan={plan} onComicGenerated={handleComicGenerated} />
           </CardContent>
         </Card>
 

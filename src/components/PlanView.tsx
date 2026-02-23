@@ -1,15 +1,17 @@
 "use client";
 
 import ReactMarkdown from "react-markdown";
-import { TravelPlan } from "@/types/plan";
+import { ComicData, TravelPlan } from "@/types/plan";
 import { Badge } from "@/components/ui/badge";
 import { PhotoGallery } from "@/components/PhotoGallery";
+import { ComicStrip } from "@/components/ComicStrip";
 
 interface PlanViewProps {
   plan: TravelPlan;
+  onComicGenerated?: (comic: ComicData) => void;
 }
 
-export function PlanView({ plan }: PlanViewProps) {
+export function PlanView({ plan, onComicGenerated }: PlanViewProps) {
   const route = (plan.route ?? []).sort((a, b) => a.order - b.order);
   const p = plan.plan;
 
@@ -92,6 +94,11 @@ export function PlanView({ plan }: PlanViewProps) {
             ))}
           </div>
         </div>
+      )}
+
+      {/* 4コマ漫画 */}
+      {onComicGenerated && (
+        <ComicStrip plan={plan} onComicGenerated={onComicGenerated} />
       )}
 
       {/* 帰り道・注意書き */}

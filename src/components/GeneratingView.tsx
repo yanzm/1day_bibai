@@ -17,14 +17,18 @@ export function GeneratingView() {
       </CardHeader>
       <CardContent className="flex flex-col items-center gap-6 py-10">
         <div className="relative">
-          <div className="h-16 w-16 rounded-full border-4 border-muted animate-spin border-t-primary" />
-          <span className="absolute inset-0 flex items-center justify-center text-2xl">
-            📍
+          <div className="h-24 w-24 rounded-full border-4 border-muted animate-spin border-t-primary" />
+          <span className="absolute inset-0 flex items-center justify-center">
+            <img
+              src="/characters/mamy.png"
+              alt="マミーちゃん"
+              className="h-14 w-14 object-contain animate-bounce"
+            />
           </span>
         </div>
         <div className="text-center space-y-2">
           <p className="text-foreground font-medium">
-            地元の友達があなたのための美唄プランを考え中...
+            マミーちゃんがあなたのための美唄プランを考え中ガン...
           </p>
           <p className="text-muted-foreground text-sm">
             少々お待ちください（30秒〜1分程度）

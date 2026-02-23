@@ -51,6 +51,11 @@ export interface PlanContent {
   notes: string;
 }
 
+export interface ComicData {
+  title: string;
+  panels: string[]; // base64エンコードされた画像データ（4枚）
+}
+
 export interface TravelPlan {
   id: string;
   themeId: string;
@@ -60,5 +65,6 @@ export interface TravelPlan {
   content?: string; // 旧形式（後方互換）
   plan?: PlanContent; // 新形式
   route: RoutePoint[];
+  comic?: ComicData;
   createdAt: string;
 }
